@@ -21,7 +21,7 @@ resource limitations, it relies on the API to aggregate data.
 **1. Clone the application**
 
 ```bash
-git clone 
+git clone https://github.com/norouziMahsa/temperature-sensor
 ```
 
 **2. Run Kafka instance**
